@@ -5,10 +5,10 @@ while True:
     else:
         break    
 if(a < b):
-    print(b / a + 1)
+    print("x = ", b / a + 1)
 elif(a == b):
-    print(25)
+    print("x = ",25)
 else:
-    print((a**3 - 5)/b)
+    print("x = ",(a**3 - 5)/b)
     
 
